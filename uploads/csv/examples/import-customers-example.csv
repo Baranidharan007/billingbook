@@ -1,0 +1,6 @@
+CUSTOMER NAME,MOBILE,EMAIL,PHONE,GST NUMBER,TAX NUMBER,PREVIOUS DUE,CREDIT LIMIT,COUNTRY,STATE,POSTCODE,CITY,ADDRESS,LOCATION LINK,SHIPPING COUNTRY,SHIPPING STATE,SHIPPING POSTCODE,SHIPPING CITY,SHIPPING ADDRESS,SHIPPING LOCATION LINK
+Customer Name 1,99887878781,abc@gmail.com,8465655645,GST123,TAX123,0,-1,India,Karnataka,591222,Banglore,AP:Kabbur Tq:Chikodi,https://map.google.com/2,India,Karnataka,591201,Banglore,AP:Kabbur Tq:Chikodi,https://map.google.com/2
+Customer Name 2,99887878782,abc@gmail.com,8465655645,GST123,TAX123,0,-1,India,Karnataka,591222,Banglore,AP:Kabbur Tq:Chikodi,https://map.google.com/3,India,Karnataka,591201,Banglore,AP:Kabbur Tq:Chikodi,https://map.google.com/3
+Customer Name 3,99887878783,abc@gmail.com,8465655645,GST123,TAX123,0,0,India,Karnataka,591222,Banglore,AP:Kabbur Tq:Chikodi,https://map.google.com/4,India,Karnataka,591201,Banglore,AP:Kabbur Tq:Chikodi,https://map.google.com/4
+Customer Name 4,99887878784,abc@gmail.com,8465655645,GST123,TAX123,0,1000,India,Karnataka,591222,Banglore,AP:Kabbur Tq:Chikodi,https://map.google.com/4,India,Karnataka,591201,Banglore,AP:Kabbur Tq:Chikodi,https://map.google.com/4
+Customer Name 5,99887878785,abc@gmail.com,8465655645,GST123,TAX123,0,100,India,Karnataka,591222,Banglore,AP:Kabbur Tq:Chikodi,https://map.google.com/6,India,Karnataka,591201,Banglore,AP:Kabbur Tq:Chikodi,https://map.google.com/6

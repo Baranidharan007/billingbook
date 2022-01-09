@@ -1,0 +1,340 @@
+.border_bottom{
+	border-bottom: 1px solid #f4f4f4;
+}
+.dataTables_processing{
+	border:0px;
+	/*background-color :#337ab7;
+	z-index: 100*/
+}
+.pointer{
+      cursor:pointer;
+    }
+.header-custom{
+  background-image: -webkit-gradient(linear, left top, right top, from(#20b9ae), to(#006fd6)); color: white;
+}
+.ui-autocomplete-loading {
+    background: white url("../../plugins/autocomplete/loader2.gif") right center no-repeat;
+}
+.ui-autocomplete-loader-center {
+    background: white url("../../plugins/autocomplete/loader1.gif") center center no-repeat;
+}
+.font-italic{
+	font-style: italic !important;
+}
+.bg-dream-blue{	
+	background-image: -webkit-gradient(linear, left top, right top, from(#20b9ae), to(#006fd6));
+	color:white;
+}
+.bg-dream-red{
+	background-color: rgb(244,4,4); 
+	color:white;
+}
+.bg-dream-green {
+	background-color: rgb(0,128,0);
+	color:white;
+}
+.bg-dream-purple {
+	background-color: rgb(166,18,166);
+	color:white;
+}
+.bg-dream-pink {
+	background-color: rgb(216,27,96);
+	color:white;
+}
+.bg-dream-maroon {
+	background-color: rgb(5,142,242);
+	color:white;
+}
+
+select[readonly].select2 + .select2-container {
+  pointer-events: none;
+  touch-action: none;
+
+  .select2-selection {
+    background: #eee;
+    box-shadow: none;
+  }
+
+  .select2-selection__arrow,
+  .select2-selection__clear {
+    display: none;
+  }
+}
+/*GRADIENT COLORS*/
+/*Credits: https://gradientbuttons.colorion.co/ */
+
+.btn-grad {
+    /*transition: 0.5s;
+    background-size: 200% auto;
+    color: white;
+    box-shadow: 0 0 20px #eee;
+    border-radius: 10px;
+    display: block;*/
+}
+
+.btn-grad:hover {
+    background-position: right center; /* change the direction of the change here */
+    color: #fff;
+    text-decoration: none;
+}
+
+/*Orange*/
+/*.btn-grad-4 {background-image: linear-gradient(to right, #7b4397 0%, #dc2430 51%, #7b4397 100%)}
+.btn-grad-4:hover { background-position: right center; } */
+
+/*purple*/
+/*.btn-grad-5 {background-image: linear-gradient(to right, #AA076B 0%, #61045F 51%, #AA076B 100%)}
+.btn-grad-5:hover { background-position: right center; } */
+
+/*Blue*/
+/*.btn-grad-6 {background-image: linear-gradient(to right, #000046 0%, #1CB5E0 51%, #000046 100%)}
+.btn-grad-6:hover { background-position: right center; } */
+
+
+
+/*Orange*/
+/*.btn-grad-7 {background-image: linear-gradient(to right, #c21500 0%, #ffc500 51%, #c21500 100%)}
+.btn-grad-7:hover { background-position: right center; } */
+
+/*Green*/
+/*.btn-grad-8 {background-image: linear-gradient(to right, #000000 0%, #0f9b0f 51%, #000000 100%)}
+.btn-grad-8:hover { background-position: right center; }
+
+.btn-grad-1 {background-image: linear-gradient(to right, #24C6DC 0%, #514A9D 51%, #24C6DC 100%)}
+.btn-grad-1:hover { background-position: right center; } 
+
+.btn-grad-2 {background-image: linear-gradient(to right, #00d2ff 0%, #3a7bd5 51%, #00d2ff 100%)}
+.btn-grad-2:hover { background-position: right center; } 
+
+.btn-grad-3 {background-image: linear-gradient(to right, #fe8c00 0%, #f83600 51%, #fe8c00 100%)}
+.btn-grad-3:hover { background-position: right center; } 
+
+.btn-grad-9 {background-image: linear-gradient(to right, #fc00ff 0%, #00dbde 51%, #fc00ff 100%)}
+.btn-grad-9:hover { background-position: right center; } 
+
+.btn-grad-14 {background-image: linear-gradient(to right, #43cea2 0%, #185a9d 51%, #43cea2 100%)}
+.btn-grad-14:hover { background-position: right center; } */
+
+/*Inside*/
+/*.btn-grad-10 {background-image: linear-gradient(to right, #1A2980 0%, #26D0CE 51%, #1A2980 100%)}
+.btn-grad-10:hover { background-position: right center; } 
+
+.btn-grad-11 {background-image: linear-gradient(to right, #FF512F 0%, #F09819 51%, #FF512F 100%)}
+.btn-grad-11:hover { background-position: right center; } 
+
+.btn-grad-12 {background-image: linear-gradient(to right, #5C258D 0%, #4389A2 51%, #5C258D 100%)}
+.btn-grad-12:hover { background-position: right center; } 
+
+.btn-grad-13 {background-image: linear-gradient(to right, #ee0979 0%, #ff6a00 51%, #ee0979 100%)}
+.btn-grad-13:hover { background-position: right center; } */
+
+/*Button*/
+/*.btn-primary {background-color: #0074ef;}
+.bg-maroon {background-color: #c80049 !important;}
+.btn-success {background-color: #066f3a;}
+.btn-info {background-color: #06a3ca;}*/
+/*.btn-grad-15:hover { background-position: right center; } */
+
+/*Gradiant*/
+/*.bg-blue-gradient {
+    background: -webkit-linear-gradient(45deg,#6200ea,#1976d2) !important;
+    background: linear-gradient(45deg,#6200ea,#1976d2) !important;
+}
+.bg-primary{
+  background-color: #0a48b3 !important;
+}*/
+
+/*SKIN BLUE LEFT WHITE*/
+/*.skin-blue-light .main-header .navbar {
+    background-color: #0a48b3 !important;
+}
+.skin-blue-light .main-header .logo {
+    background-color: #0a48b3;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+.skin-blue-light .main-header .logo:hover {
+    background-color: #0a48b3;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+.skin-blue-light .main-header li.user-header {
+    background-color: #0a48b3;
+}*/
+
+
+/*SKIN BLUE AND LEFT DARK*/
+/*.skin-blue .main-header .navbar {
+    background-color: #0a48b3 !important;
+}
+.skin-blue .main-header .logo {
+    background-color: #0a48b3;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+.skin-blue .main-header .logo:hover {
+    background-color: #0a48b3;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+.skin-blue .main-header li.user-header {
+    background-color: #0a48b3;
+}*/
+
+/*Box Redius*/
+.info-box{
+  /*border-radius: 10px;*/
+}
+.small-box{
+  /*border-radius: 10px;*/
+}
+.small-box-footer{
+ /* border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;*/
+}
+
+/*.breadcrumb > li >a {
+  color: green  !important;
+  font-weight: bold;
+}*/
+
+.custom_table_header{
+  background-color: #4c25e3;color: white;
+}
+
+/*TABLE ROW DESIGN*/
+.custom_hover > tbody>tr:hover {
+    -moz-box-shadow: 0px 2px 4px #e06547;
+    box-shadow: 0 0 26px 0 #d0d0d0;
+    background-color: white;
+    border-radius: 90px;
+}
+.table-striped>tbody>tr:nth-of-type(odd) {
+    background-color: #ffffff;
+}
+
+/*Hired developer*/
+ .inbox-widget .inbox-item {
+    overflow: hidden;
+    padding: 6px 14px;
+    position: relative;
+    border-bottom: 1px solid #e2e2e2;
+}
+.control-sidebar-dark, .control-sidebar-dark+.control-sidebar-bg {
+    background: #ffffff;
+    box-shadow: 0 2px 2px 0 rgba(0,0,0,.14), 0 3px 1px -2px rgba(0,0,0,.12), 0 1px 5px 0 rgba(0,0,0,.2);
+    height: 100%;
+}
+.inbox-widget .inbox-item .inbox-item-img {
+    display: block;
+    float: left;
+    margin-right: 15px;
+    margin-top: 2px;
+}
+.inbox-widget .inbox-item .inbox-item-author {
+    display: block;
+    margin-bottom: 0;
+    color: #495057;
+}
+.inbox-widget .inbox-item .inbox-item-text {
+    color: #adb5bd;
+    display: block;
+    margin: 0;
+    overflow: hidden;
+}
+.inbox-widget .inbox-item .inbox-item-date {
+    color: #6c757d;
+    font-size: 11px;
+    position: absolute;
+    right: 5px;
+    top: 10px;
+    background-color: #e7e8f1;
+    padding: 2px 12px;
+    border-radius: 40px;
+}
+.inbox-widget .inbox-item .inbox-item-img img {
+    width: 40px;
+}
+.rounded-circle {
+    border-radius: 50%!important;
+}
+/*Hired developer end*/
+
+
+
+
+/*************************ASKARALI CSS 19-JUNE-2021*********************************/
+.skin-blue .wrapper, .skin-blue .main-sidebar, .skin-blue .left-side {
+    background-color: #00283b;
+}
+.skin-blue .sidebar-menu > li:hover > a, .skin-blue .sidebar-menu > li.active > a {
+    color: #fff;
+    background: #0f4e67;
+    border-left-color: #f5c122;
+}
+.skin-blue .sidebar-menu > li > .treeview-menu {
+    margin: 0 1px;
+    background: #133442;
+}
+/*SKIN BLUE AND LEFT DARK*/
+.skin-blue .main-header .navbar {
+    background-color: #06296e !important;
+}
+.skin-blue .main-header .logo {
+    background-color: #06296e;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+.skin-blue .main-header .logo:hover {
+    background-color: #06296e;
+    color: #fff;
+    border-bottom: 0 solid transparent;
+}
+.skin-blue .main-header li.user-header {
+    background-color: #06296e;
+}
+/*BACKGROUND COLORS ON DASHBOARD */
+/*.bg-1 {background-image: linear-gradient(to right, #4776E6 0%, #8E54E9  51%, #4776E6  100%);color: #fff;}
+.bg-1:hover { background-position: right center; }
+*/
+
+         .bg-1 {background-image: linear-gradient(to right, #834d9b 0%, #d04ed6  51%, #834d9b  100%)}
+
+         .bg-2 {background-image: linear-gradient(to right, #FF512F 0%, #DD2476  51%, #FF512F  100%)}
+         
+         .bg-3 {background-image: linear-gradient(to right, #348F50 0%, #56B4D3  51%, #348F50  100%)}
+
+         .bg-4 {background-image: linear-gradient(to right, #000046 0%, #1CB5E0  51%, #000046  100%)}
+
+         
+         
+
+         .bg-1, .bg-2, .bg-3, .bg-4 {
+            text-transform: uppercase;
+            transition: 0.5s;
+            background-size: 200% auto;
+            color: white;            
+            box-shadow: 0 0 20px #eee;
+            border-radius: 10px;
+            display: block;
+          }
+        .info-box, .info-box-icon{
+            border-radius: 10px;
+        }
+
+
+        .bg-5 {background-image: linear-gradient(to right, #09738a 0, #3a7bd5 99%, #00d2ff 100%)}
+        .bg-5{
+            color: white;
+        }
+        
+        .info-box-number{
+            text-transform: uppercase;
+        }
+        .info-box-text{
+            font-size:  30px;    
+        }
+         
+         
+
+/*****************************ASKARALI CSS 19-JUNE-2021 END*****************************/
